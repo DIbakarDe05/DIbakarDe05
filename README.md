@@ -1,5 +1,25 @@
 # 💫 About Me:
-Hi 👋 I’m Dibakar, a student passionate about problem-solving and building efficient, real-world solutions.<br>---<br>**🔭 I’m currently working on**<br><br>* Data Structures & Algorithms (Competitive Programming)<br>* Backend development using **C++ / Python **<br>* College & personal tech projects<br><br>**👯 I’m looking to collaborate on**<br><br>* Open-source projects<br>* Backend / API development<br>* Beginner-friendly system <br><br>**🤝 I’m looking for help with**<br><br>* Advanced DSA & optimization<br>* System design basics<br>* Open-source contribution workflow<br><br>**🌱 I’m currently learning**<br><br>* Advanced C++ & STL<br>* Databases (SQL / basics of NoSQL)<br>* Backend frameworks & APIs<br><br>**💬 Ask me about**<br><br>* C++ & DSA<br>* Competitive programming<br>* Git & GitHub basics<br><br>**⚡ Fun fact**<br><br>* I enjoy debugging more than writing fresh code 😄<br><br>---
+Hi 👋 I’m Dibakar, a student passionate about problem-solving and building efficient, real-world solutions.### 🔭 Currently working on
+- Data Structures & Algorithms  
+- Backend development with C++ & Python  
+- Personal and academic projects  
+
+### 👯 Open to collaborating on
+- Open-source projects  
+- Backend / API development  
+
+### 🌱 Currently learning
+- Advanced C++ & STL  
+- Databases and backend systems  
+
+### 💬 Ask me about
+- C++ & problem solving  
+- Competitive programming  
+- Git & GitHub  
+
+### ⚡ Fun fact
+- I enjoy debugging more than writing fresh code 😄
+
 
 
 ## 🌐 Socials:
@@ -14,9 +34,6 @@ Hi 👋 I’m Dibakar, a student passionate about problem-solving and building e
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DIbakarDe05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DIbakarDe05&icon=0&color=0)](https://visitcount.itsvg.in)
